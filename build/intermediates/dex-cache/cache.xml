@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\pre-dexed\debug\classes-bf6046a3ebc134efdf0881081b3fd8747d0ad0e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\pre-dexed\debug\classes-901c4232c87b1b35ae41cd3707ce3d403c98b64d.jar" />
+    </item>
+    <item
+        jar="C:\Users\root\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-86c566a4608c1552a952f3307353406a1d0eb94e.jar" />
+    </item>
+    <item
+        jar="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a1b19be373e2f156c483c30727cb650a2ddada6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\root\AndroidStudioProjects\tutorial\build\intermediates\pre-dexed\debug\classes-387443aa03ef02734317785bbf6a5530f8a3d808.jar" />
+    </item>
+
+</items>

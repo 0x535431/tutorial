@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/root/Downloads/identity-toolkit-android-master/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.20.0/res/values-hdpi-v4/values.xml -->
+    <!-- From: file:/C:/Users/root/AndroidStudioProjects/tutorial/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.20.0/res/values-hdpi-v4/values.xml -->
     <eat-comment/>
     <dimen name="com_facebook_picker_divider_width">1px</dimen>
-    <!-- From: file:/C:/Users/root/Downloads/identity-toolkit-android-master/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-hdpi/values-hdpi.xml -->
+    <!-- From: file:/C:/Users/root/AndroidStudioProjects/tutorial/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hdpi/values-hdpi.xml -->
     <eat-comment/>
     <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
-          <item name="barSize">18.66dp</item>
+          <item name="barLength">18.66dp</item>
           <item name="gapBetweenBars">3.33dp</item>
           <item name="drawableSize">24dp</item>
      </style>
